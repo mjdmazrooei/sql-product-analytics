@@ -1,4 +1,4 @@
-# Product Analytics & Business Insights with SQL (Must-Have Portfolio Repo)
+# Product Analytics & Business Insights with SQL 
 
 You are a data scientist supporting a product team (SaaS / e-commerce style).
 Stakeholders ask:
@@ -91,20 +91,4 @@ psql -d product_analytics -f queries/funnel_analysis.sql
 
 ---
 
-## What this demonstrates (Recruiter Keywords)
-- **CTEs** and readable multi-step analysis
-- **Window functions** (lag, running totals, ranking, percentiles)
-- **Complex joins** across user, event, subscription, payment tables
-- **Time-based analysis** (monthly active users, MRR, churn-by-month)
-- **Funnel analysis** (stage conversion and drop-off)
-- **Retention & cohort analysis** (30-day retention + weekly curves)
-- **LTV** and customer value segmentation
 
----
-
-## Suggested “Key Insights” workflow
-1) Run the funnel & retention queries.
-2) Copy a few real numbers into `insights.md`.
-3) Add: “If I were the PM, I would…” decisions.
-
-This turns the repo from “SQL practice” into **business impact**.
