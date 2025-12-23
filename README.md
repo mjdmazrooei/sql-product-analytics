@@ -1,6 +1,5 @@
 # Product Analytics & Business Insights with SQL 
 
-You are a data scientist supporting a product team (SaaS / e-commerce style).
 Stakeholders ask:
 - **Where are users dropping off?**
 - **Which customers are most valuable (LTV)?**
@@ -8,6 +7,7 @@ Stakeholders ask:
 - **Which plans churn more?**
 
 This repo provides a complete SQL project:
+
 ✅ schema + synthetic dataset  
 ✅ advanced analytics queries (CTEs, windows, time analysis, funnels, cohorts)  
 ✅ a place to write product insights (not just SQL)
